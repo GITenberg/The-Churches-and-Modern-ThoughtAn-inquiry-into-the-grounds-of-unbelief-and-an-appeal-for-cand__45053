@@ -1,0 +1,28 @@
+_repo: The-Churches-and-Modern-ThoughtAn-inquiry-into-the-grounds-of-unbelief-and-an-appeal-for-cand__45053
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45053-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phelips, Vivian
+    alias: Vivian, Philip
+    birthdate: 1860
+    gutenberg_agent_id: '43051'
+    url: http://www.gutenberg.org/2009/agents/43051
+description: ''
+gutenberg_issued: '2014-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45053'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rationalism'
+- !lcc 'BL'
+title: 'The Churches and Modern Thought
+
+  An inquiry into the grounds of unbelief and an appeal for candour'
+url: http://www.gutenberg.org/ebooks/45053
